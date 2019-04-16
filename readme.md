@@ -1,8 +1,6 @@
 ### Description:
 This repo contains tutorials for Git, Latex, Linux and a getting started assignment on using git and latex.
 
-Change1: This sentence is added.
-
 ###Resources:
 #### 1. Github markdown - To write Readme.md file and wiki
 
